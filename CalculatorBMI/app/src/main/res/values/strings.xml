@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">CalculatorBMI</string>
+    <string name="calculator">Máy tính</string>
+    <string name="bmi">Calculate BMI</string>
+    <string name="bmii">BMI</string>
+    <string name="resultbmi">BMI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="maytinh">Máy Tính</string>
+    <string name="weight">Your Weight (kg)</string>
+    <string name="hight">Your Height (cm)</string>
+    <string name="age">Tuổi</string>
+    <string name="agee">0</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="sex">Giới Tính</string>
+    <string name="calculato">Tính Toán</string>
+    <string name="bmiofyou">BMI của bạn là ...</string>
+    <string name="result">0</string>
+    <string name="stattusBmi">Thiếu cân </string>
+    <string name="weightResult">0</string>
+    <string name="kg">kg</string>
+    <string name="character">|</string>
+    <string name="hightUser">0</string>
+    <string name="cm">cm</string>
+    <string name="stt1">Thiếu cân vô cùng trầm trọng</string>
+    <string name="ss1"><![CDATA[<16]]></string>
+    <string name="stt2">Thiếu cân trầm trọng</string>
+    <string name="ss2">16.0 - 16.9</string>
+    <string name="stt3">Thiếu cân</string>
+    <string name="ss3">17.0 - 18.4</string>
+    <string name="stt4">Bình thường</string>
+    <string name="ss4">18.5 - 24.9</string>
+    <string name="stt5">Thừa cân</string>
+    <string name="ss5">25.0 - 29.9</string>
+    <string name="stt6">Béo phì cấp độ 1</string>
+    <string name="ss6">30.0 - 34.9</string>
+    <string name="stt7">Béo phì cấp độ 2</string>
+    <string name="ss7">35.0 - 39.9</string>
+    <string name="ss8">\u2265 40</string>
+    <string name="stt8">Béo phì cấp độ 3</string>
+    <string name="suggest">Cân nặng bình thường đối với chiều cao của bạn là:</string>
+    <string name="susuggestWeight">00.00</string>
+    <string name="character1">-</string>
+    <string name="suggestWeight2">00.00</string>
+    <string name="recently">Gần đây</string>
+    <string name="sexx">sex</string>
+    <string name="date">Date</string>
+    <string name="genre">Select your Gender</string>
+    <string name="yourage">Your age</string>
+    <string name="dateofbirth">05/05/2002</string>
+    <string name="yearold">years old</string>
+    <string name="notification">Xin chúc mừng! Bạn đang ở 1 vị trí tuyệt vời, hãy duy trì các thói quen lành mạnh để duy trì cân nặng hợp lý</string>
+    <string name="name">Dương Khánh Hòa</string>
+    <string name="bminull">00.0</string>
+    <string name="recentlly">Gần đây</string>
+    <string name="todo">back</string>
+    <string name="underWeight">Thiếu cân</string>
+    <string name="underWeight2">Thiếu cân vô cùng trầm trọng</string>
+    <string name="underWeight1">Thiếu cân trầm trọng</string>
+    <string name="normal">Bình thường</string>
+    <string name="preObese">Thừa cân</string>
+    <string name="obese1">Béo phì cấp độ 1</string>
+    <string name="obese2">Béo phì cấp độ 2</string>
+    <string name="obese3">Béo phì cấp độ 3</string>
+
+    <string-array name="sex">
+        <item>Male</item>
+        <item>FeMale</item>
+    </string-array>
+
+</resources>
